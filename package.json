@@ -1,0 +1,16 @@
+{
+  "name": "tata-ipl-tickets-bot",
+  "version": "1.0.0",
+  "description": "Bot to remind when tickets gets live",
+  "main": "index.js",
+  "author": "Saurabh Lodha",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.1116.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^16.0.0",
+    "node-cron": "^3.0.0",
+    "node-fetch": "2.6.1"
+  }
+}
